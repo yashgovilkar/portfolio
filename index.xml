@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My portfolio site</title>
+    <title>Yash Govilkar</title>
     <link>htttps://yashgovilkar.github.io/portfolio/</link>
-    <description>Recent content on My portfolio site</description>
+    <description>Recent content on Yash Govilkar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 02 Nov 2023 23:08:14 -0400</lastBuildDate><atom:link href="htttps://yashgovilkar.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="htttps://yashgovilkar.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
+      <title>Loading soon....</title>
       <link>htttps://yashgovilkar.github.io/portfolio/docs/test/</link>
-      <pubDate>Thu, 02 Nov 2023 23:08:14 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>htttps://yashgovilkar.github.io/portfolio/docs/test/</guid>
-      <description>###This is the test file
-Random content</description>
+      <description></description>
     </item>
     
   </channel>
