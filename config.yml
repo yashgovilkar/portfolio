@@ -2,3 +2,8 @@ baseURL: "htttps://yashgovilkar.github.io/portfolio/"
 languageCode: en-us
 title: Yash Govilkar
 theme: PaperMod
+
+params:
+  keywords: ["Yash Govilkar","Portfolio"]
+
+googleAnalytics: "G-HHXTMB7R2T"
