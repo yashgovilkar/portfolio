@@ -6,4 +6,6 @@ theme: PaperMod
 params:
   keywords: ["Yash Govilkar","Portfolio"]
 
-googleAnalytics: "G-HHXTMB7R2T"
+services:
+  googleAnalytics:
+    ID: G-HHXTMB7R2T
